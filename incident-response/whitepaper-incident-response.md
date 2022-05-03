@@ -29,5 +29,12 @@ There are three domains within the customer's responsibility where security inci
 * AWS support may contact you in case of abuse&#x20;
 * Contacts from other parties like your customers, your developers, or other staff in your organization who notice something unusual. This is why it's important to have a well-known, well-publicized method of contacting your security team.
 
-### &#x20;
+### Prepare
+
+People - with training. Define roles. Create an adaptive and receptive security culture.
+
+Technology -&#x20;
+
+* Access to AWS accounts. Direct access, alternate access, federated access.&#x20;
+* Processes. Decision trees, sharing logs and snapshots, using immutable storage. Doing forensics in the cloud itself, near the incident. Isolating the incident.&#x20;
 
