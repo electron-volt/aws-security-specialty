@@ -7,7 +7,7 @@ How are IAM policies evaluated?&#x20;
 * If a permissions boundary, Organizations SCP, or session policy is present, it might override the allow with an implicit deny.
 * An explicit deny in any policy overrides any allows.
 
-![An example ](../.gitbook/assets/image.png)
+![An example ](<../.gitbook/assets/image (1).png>)
 
 You can see the order in which policies are evaluated:
 

@@ -21,5 +21,13 @@ There are three domains within the customer's responsibility where security inci
 * **Infrastructure Domain** – Incidents in the infrastructure domain include data or network-related activity, such as the traffic to your Amazon EC2 instances within the VPC, processes and data on your Amazon EC2 instances, and other areas, like containers or other future services. Your response to infrastructure domain events often involves retrieval, restoration, or acquisition of incident-related data for forensics. It likely includes interaction with the operating system of an instance, and in some cases, might also involve AWS API mechanisms.
 * **Application Domain** – Incidents in the application domain occur in the application code or in software deployed to the services or infrastructure. This domain should be included in your cloud threat detection and response runbooks, and might incorporate similar responses to those in the infrastructure domain. With appropriate and thoughtful application architecture, you can manage this domain with cloud tools, using automated forensics, recovery, and deployment.
 
-## &#x20;
+### Incident indicators
+
+* Logs and monitoring
+* Sudden spikes in billing
+* Threat intelligence, if you are subscribed to a 3rd party threat intelligence feed
+* AWS support may contact you in case of abuse&#x20;
+* Contacts from other parties like your customers, your developers, or other staff in your organization who notice something unusual. This is why it's important to have a well-known, well-publicized method of contacting your security team.
+
+### &#x20;
 

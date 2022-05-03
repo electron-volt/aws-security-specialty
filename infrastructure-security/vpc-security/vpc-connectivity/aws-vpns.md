@@ -34,4 +34,4 @@ The client establishes the VPN session from their local computer or mobile devic
 
 An example:
 
-![client VPN](<../../../.gitbook/assets/image (1).png>)
+![client VPN](<../../../.gitbook/assets/image (1) (1).png>)
