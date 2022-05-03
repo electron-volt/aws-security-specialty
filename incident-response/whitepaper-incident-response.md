@@ -36,5 +36,24 @@ People - with training. Define roles. Create an adaptive and receptive security 
 Technology -&#x20;
 
 * Access to AWS accounts. Direct access, alternate access, federated access.&#x20;
-* Processes. Decision trees, sharing logs and snapshots, using immutable storage. Doing forensics in the cloud itself, near the incident. Isolating the incident.&#x20;
+* Processes. Decision trees, sharing logs and snapshots, using immutable storage. Doing forensics in the cloud itself, near the incident. Isolating the incident. Prepare forensic workstations.&#x20;
+
+### Simulate
+
+Rough outline: find a key area to simulate. Plan the simulation, run it, then iterate based on results.&#x20;
+
+Example simulation scenarios:
+
+* Unauthorized changes to network configuration or resources.
+* Credentials that were mistakenly exposed publicly due to developer misconfiguration.
+* Sensitive content that was mistakenly made publicly accessible by developer misconfiguration.
+* Isolation of a web server that is communicating with suspected malicious IP addresses.
+
+### Iterate
+
+Create runbooks and continually improve them.
+
+Automate your forensics. You can use a combination of Lambda and Step Functions to orchestrate processes. You can use AWS Config to auto-remediate findings.&#x20;
+
+Event-driven response: With an _event-driven response_ system, a detective mechanism triggers a responsive mechanism to automatically remediate the event. AWS Lambda is a key service here.&#x20;
 
