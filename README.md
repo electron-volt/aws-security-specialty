@@ -26,6 +26,8 @@ This course attempts to provide you with useful information that will either hel
 
 Content is grouped together according to the domains of the exam. We will not attempt to cover all of the theory, but rather focus on useful hints related to possible exam questions.&#x20;
 
+At the end of the course and sprinkled throughout you will find links to AWS whitepapers, with summaries that outline the most relevant points.&#x20;
+
 ### What kind of background do I need?&#x20;
 
 The security specialty is an intermediate/advanced certification, so previous experience with AWS is a must. You should have a fundamental theoretical understanding as well as some hands-on experience of at least the following AWS technologies and services:
@@ -35,6 +37,7 @@ The security specialty is an intermediate/advanced certification, so previous ex
 * ELB, CloudFront, API Gateway
 * IAM&#x20;
 * S3, Glacier
+* AWS shared responsibility model
 
 and so on. Associate-level courses like [Developer Associate ](https://eve-4.gitbook.io/developer-associate-intensive-course/)will provide a good background. &#x20;
 
