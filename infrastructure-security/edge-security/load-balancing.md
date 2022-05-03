@@ -10,4 +10,5 @@
 
 * To ensure that TLS traffic to an ALB is secure even if the certificate private key is compromised you should create an HTTPS listener with a predefined security policy that supports forward secrecy (FS).
 * You can redirect HTTP connections to HTTPS on an ALB by creating both types of listener and a rule that redirects HTTP to HTTPS.
+* A HTTPS listener uses an X.509 certificate to create a secure channel for communication. You can create an HTTPS listener on an ALB with a certificate that is created/imported in AWS Certificate Manager or that is imported into IAM.
 * You can add a custom header in CloudFront origin settings to restrict access to a specific ALB with a conditional rule on the ALB looking for the header value.
