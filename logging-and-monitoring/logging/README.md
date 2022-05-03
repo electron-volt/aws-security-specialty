@@ -20,6 +20,3 @@ Real-time logs: Kinesis Data Streams
 
 S3 or CloudWatch
 
-### WAF
-
-CloudWatch Logs, S3 or bucket or Kinesis Data Firehose.
