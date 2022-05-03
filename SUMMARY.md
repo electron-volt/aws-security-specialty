@@ -65,6 +65,7 @@
   * [Incidents](incident-response/incidents/README.md)
     * [Revoke access for role](incident-response/incidents/revoke-access-for-role.md)
     * [Exposed credentials](incident-response/incidents/exposed-credentials.md)
+    * [Unauthorized access](incident-response/incidents/unauthorized-access.md)
     * [Exposed SSH keys](incident-response/incidents/exposed-ssh-keys.md)
     * [Identify federated user](incident-response/incidents/identify-federated-user.md)
     * [Detect and stop insider abuse](incident-response/incidents/detect-and-stop-insider-abuse.md)
