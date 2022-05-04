@@ -105,7 +105,7 @@ To avoid this, monitor CloudTrail logs to see if the public key has been downloa
 
 #### Cryptographic erasure
 
-For imported key materials, you are able to perform cryptographic erasure. Cryptographic erasure is when the cryptographic material used to encrypt the data is deleted. This results in the data being unrecoverable as it cannot be decrypted. Imported key materials in KMS can be deleted within 15 minutes.&#x20;
+For imported key materials, you are able to perform cryptographic erasure. Cryptographic erasure is when the cryptographic material used to encrypt the data is deleted. This results in the data being unrecoverable as it cannot be decrypted. Imported key materials in KMS can be deleted within 15 minutes using the DeleteImportedKeyMaterial API.&#x20;
 
 ## Security best practices
 
