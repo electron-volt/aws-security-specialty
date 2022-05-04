@@ -24,6 +24,7 @@
     * [AWS Shield](infrastructure-security/edge-security/aws-shield.md)
     * [AWS CloudFront](infrastructure-security/edge-security/aws-cloudfront.md)
     * [Edge functions](infrastructure-security/edge-security/edge-functions.md)
+  * [AWS Security Reference Architecture](infrastructure-security/aws-security-reference-architecture.md)
 * [Data protection](data-protection/README.md)
   * [Data at rest](data-protection/data-at-rest/README.md)
     * [Cryptographic services in AWS](data-protection/data-at-rest/cryptographic-services-in-aws.md)

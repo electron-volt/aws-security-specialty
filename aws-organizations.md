@@ -2,12 +2,6 @@
 
 We have mentioned Organizations in passing before. Here are some scenarios that may feature on the exam.&#x20;
 
-### Security Hub&#x20;
-
-To help automate and streamline management of accounts, Security Hub strongly recommends that you enable AWS Organizations.
-
-If you have Organizations enabled, then Security Hub automatically detects new accounts as they are added to your organization.
-
 ### All features enabled
 
 When you set up Organizations, you can opt to only have consolidated billing. The other option is "enable all features". Some features of Organizations that are available only if you enable all features:
