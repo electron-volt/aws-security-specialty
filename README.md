@@ -28,6 +28,8 @@ Content is grouped together according to the domains of the exam. We will not at
 
 At the end of the course and sprinkled throughout you will find links to AWS whitepapers, with summaries that outline the most relevant points.&#x20;
 
+If you see an apple emoji, it means that that section is undergoing some reconstruction or is still incomplete.&#x20;
+
 ### What kind of background do I need?&#x20;
 
 The security specialty is an intermediate/advanced certification, so previous experience with AWS is a must. You should have a fundamental theoretical understanding as well as some hands-on experience of at least the following AWS technologies and services:
